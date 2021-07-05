@@ -1,1 +1,1 @@
-# video-game-sales-analysys
+# video-game-sales-analysis
